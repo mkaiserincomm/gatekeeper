@@ -12,8 +12,7 @@ spec:
     kind: AssignMetadata
     listKind: AssignMetadataList
     plural: assignmetadata
-    singular: assignmetadata
-  preserveUnknownFields: false
+    singular: assignmetadata  
   scope: Cluster
   versions:
   - name: v1alpha1

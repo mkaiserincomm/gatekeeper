@@ -12,8 +12,7 @@ spec:
     kind: MutatorPodStatus
     listKind: MutatorPodStatusList
     plural: mutatorpodstatuses
-    singular: mutatorpodstatus
-  preserveUnknownFields: false
+    singular: mutatorpodstatus  
   scope: Namespaced
   versions:
   - name: v1beta1
